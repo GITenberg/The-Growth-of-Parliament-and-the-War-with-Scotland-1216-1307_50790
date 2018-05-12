@@ -1,4 +1,5 @@
 _repo: The-Growth-of-Parliament-and-the-War-with-Scotland-1216-1307_50790
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -8,12 +9,17 @@ contributor:
     - agent_name: Winbolt, S. E.
       gutenberg_agent_id: '45567'
       url: http://www.gutenberg.org/2009/agents/45567
+covers:
+- cover_type: archival
+  image_path: 50790-h/images/cover.jpg
 creator:
   author:
     agent_name: Robieson, William Dunkeld
     gutenberg_agent_id: '46084'
     url: http://www.gutenberg.org/2009/agents/46084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50790#The-Growth-of-Parliament-and-the-War-with-Scotland-1216-1307
 gutenberg_issued: '2015-12-30'
 gutenberg_type: Text
 identifiers:
